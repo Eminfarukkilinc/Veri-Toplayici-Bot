@@ -1,0 +1,17 @@
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\bin\Debug\net10.0\VeriToplayiciBot.exe
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\bin\Debug\net10.0\VeriToplayiciBot.deps.json
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\bin\Debug\net10.0\VeriToplayiciBot.runtimeconfig.json
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\bin\Debug\net10.0\VeriToplayiciBot.dll
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\bin\Debug\net10.0\VeriToplayiciBot.pdb
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\bin\Debug\net10.0\Octokit.dll
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\VeriToplayiciBot.csproj.AssemblyReference.cache
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\VeriToplayiciBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\VeriToplayiciBot.AssemblyInfoInputs.cache
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\VeriToplayiciBot.AssemblyInfo.cs
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\VeriToplayiciBot.csproj.CoreCompileInputs.cache
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\VeriTopl.CD3C9EF9.Up2Date
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\VeriToplayiciBot.dll
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\refint\VeriToplayiciBot.dll
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\VeriToplayiciBot.pdb
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\VeriToplayiciBot.genruntimeconfig.cache
+C:\Users\efaru\Desktop\VeriToplayiciBot\VeriToplayiciBot\obj\Debug\net10.0\ref\VeriToplayiciBot.dll

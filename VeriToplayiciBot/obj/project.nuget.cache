@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XnT+yuGu1lU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efaru\\Desktop\\üni\\PROJELER\\232804011_Emin_Faruk_Kılınç_232802026_Mustafa_Yüksel\\VeriToplayiciBot\\VeriToplayiciBot\\VeriToplayiciBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efaru\\.nuget\\packages\\octokit\\14.0.0\\octokit.14.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
